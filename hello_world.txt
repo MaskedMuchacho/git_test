@@ -1,0 +1,2 @@
+Cofigure a new core.editor:
+git config --global core.editor "emacs"
