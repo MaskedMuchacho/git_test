@@ -3,7 +3,7 @@ Hello World!
 
 *Hello Odin!*
 
-** Biruleibi on the house!
+** _Biruleibi on the house!_
 
 - [ ] Create Test
 - [ ] Stage
