@@ -5,6 +5,6 @@ Hello World!
 
 ** _Biruleibi on the house!_
 
-- [ ] Create Test
-- [ ] Stage
-- [ ] Commit
+- [X] Create Test
+- [X] Stage
+- [X] Commit
